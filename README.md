@@ -17,9 +17,7 @@ Automation Engineer
   Connect with me :
 </h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-shaah/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/ip3/www.linkedin.com.ico" alt="" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/shubbh7" target="blank"><img align="center" src="https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico" alt="" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/codewithsaurabh/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/ip3/www.linkedin.com.ico" alt="" height="30" width="40" />
   </a>
   <a href="mailto:codewithsaurabh@gmail.com" target="blank">
     		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto:codewithsaurabh@gmail.com" height="30" width="40" />
